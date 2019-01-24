@@ -1,1 +1,5 @@
-# calderon_jimmy_1056_project1
+# Jimmy Calderon
+
+## Project 1 - 1056
+
+#### Setting up Folders and Files.
